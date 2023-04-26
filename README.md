@@ -38,3 +38,9 @@ takes one number and inverts all bits of it.
 
 ### OUTPUT SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/91966613/234445084-b3dcdda0-1573-46c8-b6dc-bc6acb849390.png)  
+
+##### Even Odd
+![image](https://user-images.githubusercontent.com/91966613/234446130-822cdd18-8a4b-4e83-9d39-5ba3dfe89427.png)  
+![image](https://user-images.githubusercontent.com/91966613/234446273-cb31dcac-c2ac-445f-bcfa-9e83b83a4193.png)
+
+
