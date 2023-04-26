@@ -43,4 +43,13 @@ takes one number and inverts all bits of it.
 ![image](https://user-images.githubusercontent.com/91966613/234446130-822cdd18-8a4b-4e83-9d39-5ba3dfe89427.png)  
 ![image](https://user-images.githubusercontent.com/91966613/234446273-cb31dcac-c2ac-445f-bcfa-9e83b83a4193.png)
 
+### Number of 1's
+![image](https://user-images.githubusercontent.com/91966613/234481806-a66411e1-869c-4730-8397-3592c068ad27.png)  
+
+### Power of 2
+![image](https://user-images.githubusercontent.com/91966613/234481903-218d2cc5-997a-4120-9fcc-c3a3525f5f64.png)  
+
+### Print number in Binary  
+![image](https://user-images.githubusercontent.com/91966613/234482040-f68321e2-381a-497e-ab0c-24bc31d20258.png)  
+
 
