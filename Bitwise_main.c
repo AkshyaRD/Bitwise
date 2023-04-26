@@ -1,8 +1,7 @@
 /* Using bitwise operators write programs:
 	1. to count number of 1s in an integer number
-	2. to check if a number is even or odd
-	3. to check if a number is a power of two or not
-	4. to print a number in binary
+	2. to check if a number is a power of two or not
+	3. to print a number in binary
 */
 
 #include <stdio.h>
@@ -15,7 +14,7 @@ int main()
 	int count = 0;
 	int copy;
 	
-	printf("Bitwise Operations:\n\n1 - Count the number of 1s in an integer\n2 - Check if a number is even or odd\n3 - Check if a number is a power of two or not\n4 - Print a number in binary\n\n");
+	printf("Bitwise Operations:\n\n1 - Count the number of 1s in an integer\n2 - Check if a number is a power of two or not\n3 - Print a number in binary\n\n");
 	printf("Enter a number from the list above: ");
 	scanf("%d", &choice);
 	
@@ -51,21 +50,6 @@ int main()
 		}
 		case 2:
 		{
-			// check if a number is even or odd
-			
-			printf("Entered choice: 2\n");
-			
-			printf("Enter a number: ");
-			scanf("%d", &x);
-			
-			(x & 1 != 0) ? 
-				printf("Odd number.\n") :
-				printf("Even number.\n");
-
-			break;
-		}
-		case 3:
-		{
 			// check if a number is a power of two or not
 			
 			printf("Entered choice: 3\n");
@@ -93,7 +77,7 @@ int main()
 					
 			break;
 		}
-		case 4:
+		case 3:
 		{
 			// print a number in binary
 			// check
